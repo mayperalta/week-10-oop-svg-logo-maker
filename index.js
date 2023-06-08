@@ -16,7 +16,13 @@ function init() {
     inquirer
     .prompt(questions)
     .then ((response) => {
-      createLogo (response); 
+      // test user input
+      console.log(response.shape)
+      console.log(response.text)
+      console.log(response.textColor)
+      console.log(response.shapeColor)
+
+      createLogo(response); 
     })
   .catch (err => {
   console.log(err); 
