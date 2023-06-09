@@ -39,11 +39,11 @@ Circle - `ABC` for the text, `#FFFFFF` for the text color, `circle` from the lis
 
 ![Circle SVG](./examples/circle.svg)
 
-Square - `ABC` for the text, `#FFFFFF` for the text color, `circle` from the list of shapes, and `red` for the shape color. 
+Square - `ABC` for the text, `#FFFFFF` for the text color, `square` from the list of shapes, and `red` for the shape color. 
 
 ![Square SVG](./examples/square.svg)
 
-Triangle - `ABC` for the text, `#FFFFFF` for the text color, `circle` from the list of shapes, and `blue` for the shape color. 
+Triangle - `ABC` for the text, `#FFFFFF` for the text color, `triangle` from the list of shapes, and `blue` for the shape color. 
 
 ![Triangle SVG](./examples/triangle.svg)
 
