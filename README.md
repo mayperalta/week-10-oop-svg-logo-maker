@@ -26,7 +26,7 @@ On the Visual Studio terminal do the following:
 * npm i jest
 * npm i inquirer@8.2.4
 * node index.js 
-* enter responses
+* enter responses on the command line
 * view SVG file on browser
 * npm run test
 
