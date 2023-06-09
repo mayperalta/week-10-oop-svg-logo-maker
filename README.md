@@ -49,7 +49,7 @@ Triangle - `ABC` for the text, `#FFFFFF` for the text color, `circle` from the l
 
 The below image shows the results from an `npm run test`.
 
-![Npm run test results](./assets/test-results.png)
+![Npm run test results](./examples/circle.svg)
 
 The video below demonstrates how the application works. It also includes an `npm run test`, showing whether the script successfully renders the expected output.  
 
