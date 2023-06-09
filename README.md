@@ -1,6 +1,6 @@
 # Week 10 (OOP): SVG Logo Maker Application
 
-The task is to build a Node.js command line application that takes in user input to generate a logo in SVG format. The application prompts the user to select a  text, text color, shape color the saves the logo to the examples folder. 
+The task is to build a Node.js command line application that takes in user input to generate a logo in SVG format. The application prompts the user to select a  text, text color, shape color then saves the logo to the examples folder. 
 
 ## User Story
 
