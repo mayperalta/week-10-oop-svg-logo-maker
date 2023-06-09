@@ -37,19 +37,19 @@ The following image shows a mock-up of the generated SVG given the following inp
 
 Circle - `ABC` for the text, `#FFFFFF` for the text color, `circle` from the list of shapes, and `green` for the shape color. 
 
-![Circle SVG](./assets/circle.png)
+![Circle SVG](./examples/circle.svg)
 
 Square - `ABC` for the text, `#FFFFFF` for the text color, `circle` from the list of shapes, and `red` for the shape color. 
 
-![Square SVG](./assets/square.png)
+![Square SVG](./examples/square.svg)
 
 Triangle - `ABC` for the text, `#FFFFFF` for the text color, `circle` from the list of shapes, and `blue` for the shape color. 
 
-![Triangle SVG](./assets/triangle.png)
+![Triangle SVG](./examples/triangle.svg)
 
 The below image shows the results from an `npm run test`.
 
-![Npm run test results](./examples/circle.svg)
+![Npm run test results](./assets/test-results.png)
 
 The video below demonstrates how the application works. It also includes an `npm run test`, showing whether the script successfully renders the expected output.  
 
