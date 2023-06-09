@@ -1,4 +1,4 @@
-# week-10-oop-svg-logo-maker
+# Week-10 (OOP): SVG Logo Maker Application
 
 The task is to build a Node.js command line application that takes in user input to generate a logo and save it as an SGG file. The application prompts the user to select a  text, text color, shape color the saves the logo to the examples folder. 
 
@@ -10,44 +10,6 @@ I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 ```
 
-## Acceptance Criteria
-
-```md
-GIVEN a command-line application that accepts user input
-
-WHEN I am prompted for text
-THEN I can enter up to three characters
-
-* This is done by creating an object property name called `text` with the type `input`. Then on index.js, a prompt() function `.prompt(questions)` is called to display the `message` `TEXT - Enter up to (3) characters:` on the command line where the user can type in a response. Validation is added to ensure the user can only enter up to 3 characters. 
-
-WHEN I am prompted for the text color
-THEN I can enter a color keyword (OR a hexadecimal number)
-
-* This is done by creating an object property name called `textColor` with the type `input` as shown below. Then on index.js, a prompt() function `.prompt(questions)` is called to display the `message` `TEXT - Enter up to (3) characters:` on the command line where the user can type in a response. Both color keyword (ex. green) or hexadecimal equivalent (ex. #FFFFFF) are accepted. 
-
-WHEN I am prompted for a shape
-THEN I am presented with a list of shapes to choose from: circle, triangle, and square
-
-* This is done by creating an object property name called `shape` with the type `list` as shown below. Then on index.js, a prompt() function `.prompt(questions)` is called to display the `message` `SHAPE - Select a shape:` on the command line where the user can select a shape--Circle, Square, Triangle. 
-
-WHEN I am prompted for the shape's color
-THEN I can enter a color keyword (OR a hexadecimal number)
-
-* This is done by creating an object property name called `shapeColor` with the type `input` as shown below. Then on index.js, a prompt() function `.prompt(questions)` is called to display the `message` `SHAPE COLOR - Enter a color keyword (OR a hexadecimal number):` on the command line where the user can type in a response. Both color keyword (ex. green) or hexadecimal equivalent (ex. #FFFFFF) are accepted. 
-
-WHEN I have entered input for all the prompts
-THEN an SVG file is created named `logo.svg`
-
-* This is done when the `createLogo(response)` function is called on index.js. The function takes the newly selected shape and renders its properties, then create the SVG file `{selected shape}.svg` in the `/examples` folder. If the file exists, it will overwrite its contents. 
-
-AND the output text "Generated logo.svg" is printed in the command line
-WHEN I open the `logo.svg` file in a browser
-
-* This is done when the selected logo renders on the browser. 
-
-THEN I am shown a 300x200 pixel image that matches the criteria I entered
-```
-
 # Technologies used
 
 * JS
@@ -56,6 +18,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 * Jest
 
 # How to Use 
+
+On the Visual Studio terminal do the following: 
 
 * git clone https://github.com/mayperalta/week-10-oop-svg-logo-maker.git
 * npm init
@@ -91,7 +55,7 @@ The video below demonstrates how the application works. It also includes an `npm
 
 ![Watch video](./assets/svg-demo.gif)
 
-![Watch video](https://drive.google.com/file/d/1JYjQUUPK7XoxFQX-5O9YlQWpMRzbJkvb/view)
+![Watch video](https://drive.google.com/file/d/1JYjQUUPK7XoxFQX-5O9YlQWpMRzbJkvb/view?usp=sharing)
 
 # Repository
 
