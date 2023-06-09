@@ -55,13 +55,13 @@ The video below demonstrates how the application works. It also includes an `npm
 
 ![Watch video](./assets/svg-demo.gif)
 
-[Watch video](https://drive.google.com/file/d/1JYjQUUPK7XoxFQX-5O9YlQWpMRzbJkvb/view?usp=sharing)
+Wath Video here - [https://drive.google.com/file/d/1JYjQUUPK7XoxFQX-5O9YlQWpMRzbJkvb/view?usp=sharing](https://drive.google.com/file/d/1JYjQUUPK7XoxFQX-5O9YlQWpMRzbJkvb/view?usp=sharing)
 
 # Repository
 
 The URL of the GitHub repository, with a unique name and a README describing the project:
 
-[GITHub Repo](https://github.com/mayperalta/week-10-oop-svg-logo-maker)
+View [GITHub Repo here](https://github.com/mayperalta/week-10-oop-svg-logo-maker)
 
 
 
