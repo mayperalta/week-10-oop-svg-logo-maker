@@ -51,7 +51,7 @@ The below image shows the results from an `npm run test`.
 
 ![Npm run test results](./assets/test-results.png)
 
-The video below demonstrates how the application works. It also includes an `npm run test`, showing whether the script successfully renders the expected output.  
+The video below demonstrates how the application works and passing tests. 
 
 ![Watch video](./assets/svg-demo.gif)
 
